@@ -2,8 +2,8 @@
 //  RecordSoundsViewController.swift
 //  PitchPerfect
 //
-//  Created by amarjeet on 09/11/17.
-//  Copyright © 2017 amarjeet. All rights reserved.
+//  Created by isha on 09/11/17.
+//  Copyright © 2017 isha. All rights reserved.
 //
 
 import UIKit
