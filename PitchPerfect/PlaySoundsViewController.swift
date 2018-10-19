@@ -2,8 +2,8 @@
 //  PlaySoundsViewController.swift
 //  PitchPerfect
 //
-//  Created by amarjeet on 14/11/17.
-//  Copyright © 2017 amarjeet. All rights reserved.
+//  Created by isha on 14/11/17.
+//  Copyright © 2017 isha. All rights reserved.
 //
 
 import UIKit
